@@ -1,0 +1,33 @@
+_repo: Act-Declaration--amp--Testimony-for-the-Whole-of-our-Covenanted-Reformation-as-Attained-to-an__13200
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reformed Presbytery of North America
+    aliases:
+    - Steelites (Reformed Presbyterian Church)
+    - America, Reformed Presbytery of North
+    gutenberg_agent_id: '3247'
+    url: http://www.gutenberg.org/2009/agents/3247
+description: ''
+gutenberg_issued: '2004-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reformed Presbytery of North America -- Doctrines'
+- !lcsh 'Church and state'
+- !lcsh 'Reformed Presbyterian Church (Scotland) -- History'
+- !lcsh 'Reformed Presbytery of North America -- History'
+- !lcc 'BX'
+- !lcsh 'Reformed Presbyterian Church of Ireland -- History'
+title: Act, Declaration, & Testimony for the Whole of our Covenanted Reformation,
+  as Attained to, and Established in Britain and Ireland; Particularly Betwixt the
+  Years 1638 and 1649, Inclusive
+url: http://www.gutenberg.org/ebooks/13200
